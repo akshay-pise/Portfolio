@@ -1,1 +1,1 @@
-# Portfolio using html css and javascript
+# Portfolio webpage using html, css and javascript
